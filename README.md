@@ -5,4 +5,5 @@
 chmod +x ./server.sh
 ./server.sh
 ```
-Note: you need php installed on your system
+The server will launch on port 8000
+Notes: You need php installed on your system
