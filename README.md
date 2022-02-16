@@ -1,4 +1,4 @@
-# Php file upload Vulnerability
+# PHP file upload Vulnerability
 
 ## Launch the server 
 ```bash
